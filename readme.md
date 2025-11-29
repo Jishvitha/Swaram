@@ -1,4 +1,4 @@
-# Swaram – Voice Memories & Real-Time Conversations 🎙️💛
+# Swaram – Voice Memories & Real-Time Conversations 
 
 Swaram is an emotional voice-memory app that helps you stay connected with the people you love — even when they are far away or no longer with you.
 
