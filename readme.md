@@ -118,6 +118,7 @@ Telugu, Tamil, Hindi, Malayalam, Kannada, Bengali, and more.
 
 ## Author  
 **Jishvitha**  
-Swaram was created with one thought —  **the people we miss still deserve to be heard.**
+Swaram was created with one thought —  
+**the people we miss still deserve to be heard.**
 
 ---
