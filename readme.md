@@ -9,7 +9,7 @@ The goal is simple:
 
 ---
 
-## ❤️ Why this idea?
+## Why this idea?
 
 Sometimes:
 
@@ -23,7 +23,7 @@ not as a replacement, but as a gentle memory that speaks back.
 
 ---
 
-## ⭐ How Swaram Works (Simple Explanation)
+## How Swaram Works (Simple Explanation)
 
 ### 1. Upload a Voice Recording
 A call clip, voice note, video audio — anything.
@@ -41,7 +41,7 @@ Listen whenever you miss them.
 
 ---
 
-## ✨ Key Features (MVP)
+## Key Features (MVP)
 
 ### 🔹 Voice Recreation
 - Upload any recording  
@@ -68,7 +68,7 @@ Telugu, Tamil, Hindi, Malayalam, Kannada, Bengali, and more.
 
 ---
 
-## 📱 Planned UI / Screens
+## Planned UI / Screens
 
 - Home screen  
 - Upload voice page  
@@ -79,7 +79,7 @@ Telugu, Tamil, Hindi, Malayalam, Kannada, Bengali, and more.
 
 ---
 
-## 🛠️ Tech Stack (Planned)
+## Tech Stack (Planned)
 
 ### **AI / ML**
 - Voice Cloning Models (TTS + Emotion Modeling)  
@@ -105,7 +105,7 @@ Telugu, Tamil, Hindi, Malayalam, Kannada, Bengali, and more.
 
 ---
 
-## 💡 Future Plans
+## Future Plans
 
 - Store chats & conversations  
 - Voice-to-Video emotional avatars  
