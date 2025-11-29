@@ -1,0 +1,70 @@
+# -------------------------
+# General
+# -------------------------
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+
+# -------------------------
+# Node / Backend
+# -------------------------
+node_modules/
+npm-debug.log
+yarn-error.log
+.env
+.env.local
+.env.*local
+
+# -------------------------
+# Python
+# -------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env/
+venv/
+env/
+*.db
+
+# -------------------------
+# Flutter / Dart
+# -------------------------
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+build/
+android/.gradle/
+android/local.properties
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+macos/Flutter/ephemeral/
+
+# -------------------------
+# React Native
+# -------------------------
+.expo/
+.expo-shared/
+android/app/build/
+ios/build/
+
+# -------------------------
+# VS Code
+# -------------------------
+.vscode/
+.history/
+
+# -------------------------
+# Misc
+# -------------------------
+*.sqlite
+*.iml
+*.pid
+*.seed
+coverage/
+dist/
